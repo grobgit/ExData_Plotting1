@@ -215,26 +215,6 @@ dev.off()
 
 
 
-## To at 17th Jun
-
-# Create the four seperate .R files for each plot
-# Fork and clone the repository
-# Ad >r and PNG fils to top level folder repository
-# push to GitHub
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # vec5 <- as.numeric(newdf$Global_reactive_power)
 
 # par(mfrow = c(1, 3), mar = c(4, 4, 2, 1), oma = c(0, 0, 2, 0))
